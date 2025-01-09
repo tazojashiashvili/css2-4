@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#mainDiv {
+    background-image: none;
+    margin-bottom: 115px;
+
+
+}
+
+#thePhoto {
+    margin-left: 260px;
+    margin-right: 260px;
+    margin-top: 156px;
+    width: 1400px;
+    height: 674px;
+
+}
+
+p {
+    color: #FFFFFF;
+    font-size: 44px;
+    font-weight: 400;
+    margin-top: -625px;
+    margin-left: 331px;
+    max-width: 1258px;
+}
+
+#firstBorder {
+    border-radius: 24px;
+    background-color: #EBF8FE;
+}
