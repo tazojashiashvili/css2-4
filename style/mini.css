@@ -9,6 +9,7 @@
     margin-bottom: 115px;
 
 
+
 }
 
 #thePhoto {
@@ -20,16 +21,262 @@
 
 }
 
-p {
-    color: #FFFFFF;
-    font-size: 44px;
-    font-weight: 400;
-    margin-top: -625px;
-    margin-left: 331px;
-    max-width: 1258px;
-}
-
 #firstBorder {
     border-radius: 24px;
     background-color: #EBF8FE;
+    margin-top: 115px;
+    max-width: 1137px;
+    height: 350px;
+    margin: 0 auto;
+}
+
+#title {
+    color: #181D27;
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 24px;
+}
+
+#stillBuilding {
+    color: #535862;
+    font-size: 32px;
+    font-weight: 400;
+    max-width: 1073px;
+    height: 88px;
+    padding-right: 32px;
+    padding-left: 32px;
+    padding-bottom: 24px;
+}
+
+#emailBorder {
+    border: 1px solid #D5D7DA;
+    border-radius: 8px;
+    width: 345px;
+    height: 48px;
+    background-color: #FFFFFF;
+    margin-left: 324px;
+    margin-right: 24px;
+    display: inline-block;
+}
+
+#enterEmail {
+    color: #717680;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 12px 14px;
+}
+
+#subscribe {
+    display: inline-block;
+    background-color: #007CB8;
+    color: #FFFFFF;
+    border: 2px solid #FFF;
+    border-radius: 8px;
+    width: 119px;
+    height: 48px;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 20px;
+}
+
+#careAbout {
+    padding-left: 324px;
+    padding-top: 8px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #535862;
+}
+
+#firstSpan {
+    text-decoration: underline;
+}
+
+#lastBorder {
+    border-radius: 24px;
+    background-color: #EBF8FE;
+    margin: 0 auto;
+    width: 546px;
+    height: 638px;
+    margin-top: 72px;
+}
+
+#submit {
+    color: #181D27;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 40px;
+    padding-left: 32px;
+}
+
+#fullName {
+    padding-top: 24px;
+    padding-left: 32px;
+    padding-bottom: 8px;
+    color: #1B003D;
+}
+
+#writeName {
+    width: 482px;
+    height: 48px;
+    border: 1px solid #380054;
+    border-radius: 8px;
+    padding: 8px 16px;
+    color: #6D5F8B;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 32px;
+    margin-bottom: 24px;
+}
+
+#email {
+    padding-left: 32px;
+    padding-bottom: 8px;
+    color: #1B003D;
+}
+
+#writeEmail {
+    width: 482px;
+    height: 48px;
+    border: 1px solid #380054;
+    border-radius: 8px;
+    padding: 8px 16px;
+    color: #6D5F8B;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 32px;
+    margin-bottom: 24px;
+}
+
+#geeks {
+    color: #1B003D;
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 32px;
+    padding-bottom: 8px;
+}
+
+#radioActive {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 11px;
+    padding-left: 32px;
+    padding-bottom: 10px;
+}
+
+#firstYes {
+    color: #6D5F8B;
+    display: inline-block;
+    vertical-align: middle;
+    padding-bottom: 10px;
+}
+
+#radioDefault {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 11px;
+    padding-left: 32px;
+    padding-bottom: 10px;
+}
+
+#secondYes {
+    color: #6D5F8B;
+    display: inline-block;
+    vertical-align: middle;
+    padding-bottom: 10px;
+}
+
+#secondDefault {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 11px;
+    padding-left: 32px;
+    padding-bottom: 24px;
+}
+
+#lastYes {
+    color: #6D5F8B;
+    display: inline-block;
+    vertical-align: middle;
+    padding-bottom: 24px;
+}
+
+#frameWorks {
+    color: #1B003D;
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 32px;
+    padding-bottom: 8px;
+}
+
+#checkDiv {
+    display:  inline-block;
+    margin-bottom: 10px;
+    margin-left: 32px;
+    vertical-align: middle;
+}
+
+#checkBox {
+    padding-right: 11px;
+}
+
+#c {
+    color: #6D5F8B;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+
+#defaultBox {
+    display:  inline-block;
+    margin-bottom: 10px;
+    margin-left: 32px;
+    vertical-align: middle;
+    padding-bottom: 10px;
+    padding-right: 11px;
+}
+
+#cc {
+    color: #6D5F8B;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    vertical-align: middle;
+    padding-bottom: 10px;
+}
+
+#secondBox {
+    display:  inline-block;
+    margin-bottom: 10px;
+    margin-left: 32px;
+    vertical-align: middle;
+    padding-bottom: 10px;
+    padding-right: 11px;
+}
+
+#java {
+    color: #6D5F8B;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    vertical-align: middle;
+    padding-bottom: 10px;
+}
+
+#lastBox {
+    display:  inline-block;
+    margin-bottom: 10px;
+    margin-left: 32px;
+    vertical-align: middle;
+    padding-right: 11px;
+}
+
+#python {
+    color: #6D5F8B;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    vertical-align: middle;
 }
